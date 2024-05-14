@@ -3,7 +3,7 @@ Strivers A2Z DSA Sheet Step 3 (Solve Problems on Arrays [Easy -> Medium -> Hard]
 
 ![cover](/day01/LargestElementInArray.png)
 
-<center> View Demo <a href="" target="_blank">React Coffee App</a> </center>
+<center> View Demo <a href="" target="_blank"> #100 days of code </a> </center>
 
 ## 🦉 Main information
 
